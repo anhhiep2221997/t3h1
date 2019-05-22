@@ -1,2 +1,2 @@
 <?php
-inet_ntop();
+echo "hello";
